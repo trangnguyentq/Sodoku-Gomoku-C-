@@ -1,43 +1,10 @@
-TA: Alec Shearer (alec.shearer@wustl.edu)
-Grade: 94/100
-
--1: Don't define constants named "zero", "one", "eight", etc. It kind of defeats the purpose of not using hardcoded constants. 
-    Instead of making an enum variable called "nine" you could have made it called "max_input_value", so that later on 
-	if you wanted to change your implementation to allow for larger or smaller boards, you could just change the value of the enum variable.
-
--5: Your Sudoku can save games but doesn't appear to load them when the program is restarted.
-
 ========================================================================
 
     CONSOLE APPLICATION : Lab4 Project Overview
 
 ========================================================================
-
-
-
-Lab4
-
-
-
-Trang Nguyen
-
-Lingxin Zhao 
-
-
-
-We met in computer lab and work together through every section of the lab, every member contributed their ideas while implementing the code, and trying to fix the all errors together.
-
-
-
  
-
-AppWizard has created this Lab4 application for you.
-
-
-
-This file contains a summary of what you will find in each of the files that
-
-make up your Lab4 application.
+This file contains a summary of what you will find in each of the files that make up the application.
 
 
 
